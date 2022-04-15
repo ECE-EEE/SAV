@@ -83,6 +83,13 @@ h1{
     /* border-color: #0a0109; */
    
 }
+
+.comp{
+	font-family: 'Press Start 2P', cursive;
+	margin-left: 2vw;
+	color:rgb(72, 150, 30);
+}
+
 .sorts{
 	display: flex;
 	justify-content: center;
