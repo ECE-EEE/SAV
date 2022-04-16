@@ -1,3 +1,2 @@
 # Sorting Visualizer
-
-https://ece-eee.github.io/Sort2/
+https://ece-eee.github.io/SAV/
